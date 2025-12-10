@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom base styles */
+@layer base {
+  html {
+    @apply antialiased;
+  }
+
+  body {
+    @apply bg-white text-gray-900;
+  }
+
+  * {
+    @apply border-gray-200;
+  }
+}
+
+/* Custom component styles */
+@layer components {
+  /* Add custom component classes here */
+}
+
+/* Custom utility styles */
+@layer utilities {
+  /* Add custom utility classes here */
+}

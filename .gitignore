@@ -1,0 +1,109 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+coverage.xml
+*.cover
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# Secrets & Config
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+secrets/
+credentials.json
+
+# Data
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+*.csv
+*.pkl
+*.h5
+*.hdf5
+
+# Models
+models/*.pth
+models/*.pt
+models/*.onnx
+!models/.gitkeep
+
+# DVC
+/models/trained/
+.dvc/tmp
+.dvc/cache
+
+# CAD outputs
+output/
+*.dxf
+*.plt
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Phase 4: API & Service Layer
+uploads/
+exports/
+temp/
+*.db
+*.sqlite
+*.sqlite3
+.alembic/versions/*.pyc
+
+# Redis dump
+dump.rdb
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
