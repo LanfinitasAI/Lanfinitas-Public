@@ -228,9 +228,9 @@ This demo showcases:
 
 **Interested in seeing the real system?**
 
-📧 **Email**: contact@lanfinitas.ai
-🔗 **Website**: [Coming Soon]
-💼 **LinkedIn**: [Company Page]
+📧 **Email**: supprt@lanfinitasai.com
+🔗 **Website**: www.lanfinitasai.com
+💼 **LinkedIn**: linkedin.com/company/LanfintiasAI
 
 ---
 
@@ -308,8 +308,8 @@ See [LICENSE](LICENSE) for details.
 
 For investment opportunities, partnerships, or private demonstrations:
 
-- **Email**: contact@lanfinitas.ai
-- **GitHub**: [uto622/Lanfinitas-Public](https://github.com/uto622/Lanfinitas-Public)
+- **Email**: support@lanfinitasai.com
+- **GitHub**: [LanfintiasAI/Lanfinitas-Public](https://github.com/lanfinitasai/Lanfinitas-Public)
 
 ---
 
