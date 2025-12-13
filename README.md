@@ -39,7 +39,7 @@ Copyright 2025
 
 ```bash
 # Clone the repository
-git clone https://github.com/uto622/Lanfinitas-Public.git
+git clone https://github.com/LanfinitasAI/Lanfinitas-Public.git
 cd Lanfinitas-Public
 
 # Run the demo (no dependencies required for basic demo)
@@ -309,7 +309,7 @@ See [LICENSE](LICENSE) for details.
 For investment opportunities, partnerships, or private demonstrations:
 
 - **Email**: support@lanfinitasai.com
-- **GitHub**: [LanfintiasAI/Lanfinitas-Public](https://github.com/lanfinitasai/Lanfinitas-Public)
+- **GitHub**: [LanfintiasAI/Lanfinitas-Public](https://github.com/LanfinitasAI/Lanfinitas-Public)
 
 ---
 
