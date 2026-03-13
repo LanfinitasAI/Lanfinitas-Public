@@ -1,0 +1,41 @@
+{
+  "style_number": "PNT-20260311-AEKS",
+  "project_title": "HAREM PANTS — VIBRANT FUCHSIA, BLACK, AND WHITE ANIMAL PRINT",
+  "season": "SS26",
+  "version": "DRAFT",
+  "size_range": [
+    "ONE SIZE"
+  ],
+  "bom": [
+    {
+      "component": "Main Body",
+      "material": "silk crepe",
+      "composition": "100% SE",
+      "gsm": "—"
+    },
+    {
+      "component": "Lining",
+      "material": "—",
+      "composition": "—",
+      "gsm": "—"
+    }
+  ],
+  "measurements": {
+    "front_length": "",
+    "back_length": "",
+    "shoulder": "",
+    "chest": "",
+    "waist": "",
+    "hip": "",
+    "hem": "",
+    "sleeve_length": "",
+    "sleeve_width": "",
+    "cuff": "",
+    "collar_width": "",
+    "waist_height": "",
+    "front_rise": "",
+    "back_rise": ""
+  },
+  "description": "Voluminous drop-crotch harem pants in a vibrant fuchsia, black, and white animal print 100% silk crepe, featuring an elastic waistband and dramatically tapering legs to elasticized cuffs.",
+  "saved_at": "2026-03-11T00:25:16.926Z"
+}
