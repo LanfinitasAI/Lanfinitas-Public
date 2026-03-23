@@ -20,7 +20,7 @@ shows the structured spec SpecFlow generates.
 TypeScript · Python · Industrial Lexicon (500+ terms, 8 languages)
 
 ## Company
-Lanfinitas · lu.min@lanfinitasai.com
+Lanfinitas · support@lanfinitasai.com
 
 <img width="2560" height="1528" alt="Screenshot 2026-03-13 064250" src="https://github.com/user-attachments/assets/e9cb1e17-c919-4237-9fee-3d1b2ea40b8e" />
 <img width="399" height="518" alt="Screenshot 2026-03-13 064227-1" src="https://github.com/user-attachments/assets/5b81f890-45b7-4da3-987b-11aef8213b27" />
