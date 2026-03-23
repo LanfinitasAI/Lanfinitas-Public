@@ -1,6 +1,7 @@
 # SpecFlow — AI Spec Engine for Fashion Manufacturing
 
-<img width="2560" height="1528" alt="Screenshot 2026-03-13 063954" src="https://github.com/user-attachments/assets/d31aa134-8f9f-461a-a7ad-b4eca9ad5509" />
+<img width="2560" height="1600" alt="Screenshot 2026-03-23 105507" src="https://github.com/user-attachments/assets/b2b7851d-40e2-48c8-8ad5-affc5b4889d7" />
+
 
 SpecFlow converts a design brief into a complete, 
 multilingual Tech Pack in under 60 seconds.
